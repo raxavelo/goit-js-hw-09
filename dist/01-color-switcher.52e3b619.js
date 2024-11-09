@@ -524,6 +524,6 @@ stopBtn.addEventListener("click", (event)=>{
     startBtn.removeAttribute("disabled");
 });
 
-},{}]},["gzrwE","cYUEh"], "cYUEh", "parcelRequired7c6")
+},{}]},["gzrwE","cYUEh"], "cYUEh", "parcelRequire7bc7")
 
 //# sourceMappingURL=01-color-switcher.52e3b619.js.map
